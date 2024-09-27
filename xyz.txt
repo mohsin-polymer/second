@@ -1,3 +1,22 @@
 
-192.168.3.6
-jackal@gmail.com
+
+
+							All BASIC POLICY Rules list 
+apple
+sdfsadf
+
+mn
+
+testrule1
+
+testrule2
+		
+SSN : 185-36-3222
+
+Date 05-12-2021
+
+Email Address : tets134@test.net
+
+Phone number: +1 415 555 5421
+
+IP Address : 192.168.100.5
